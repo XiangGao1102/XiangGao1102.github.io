@@ -1,5 +1,5 @@
 ---
-title: "2. (IJCAI-2021) Multi-view Feature Augmentation with Adaptive Class Activation Mapping"
+title: "2. (2021-IJCAI) Multi-view Feature Augmentation with Adaptive Class Activation Mapping"
 collection: publications
 date: 2021-08-12
 paperurl: 'https://www.ijcai.org/proceedings/2021/0094.pdf'
