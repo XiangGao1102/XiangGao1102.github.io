@@ -1,10 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/  
+    url: /publications/ 
+
+  - title: "Education"
+    url: /Education/  
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Working Experience"
+    url: /working/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Skills"
+    url: /Skills/
