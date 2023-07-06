@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/ 
 
-  - title: "Education"
-    url: /Education/  
+  - title: "Talks"
+    url: /talks/    
         
-  - title: "Working Experience"
-    url: /working/
+  - title: "Blog Posts"
+    url: /year-archive/
     
-  - title: "Skills"
-    url: /Skills/
+  - title: "CV"
+    url: /cv/
