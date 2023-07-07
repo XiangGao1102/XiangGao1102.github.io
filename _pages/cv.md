@@ -17,15 +17,13 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015-2016 Java Platform Development Engineer
+  * IFENG, Beijing
+  * Technology department
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022-2023: AI Systems Engineering researcher
+  * HUAWEI, Beijing
+  * Noah's Ark Lab
   
 Skills
 ======
@@ -56,4 +54,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
