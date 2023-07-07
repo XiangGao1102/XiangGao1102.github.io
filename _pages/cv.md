@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. (Communication Engineering) in Beijing University Of Posts and Telecommunications, 2011-2015
+* M.S. (Artificial Intelligence) in The University of Edinburgh, 2016-2017
+* Ph.D (Computer Application Technology) in The University of Chinese Academy of Sciences, 2018-2022
 
 Work experience
 ======
