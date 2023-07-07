@@ -27,12 +27,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Network routing and switching technology, network engineering;
+* Java Web development;
+* Oracle, MySQL databases;
+* Big data technologies, e.g., Hadoop, HBase, Storm, Kafka.
 
 Publications
 ======
