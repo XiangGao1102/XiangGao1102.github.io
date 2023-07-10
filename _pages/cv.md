@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. (Communication Engineering) in Beijing University Of Posts and Telecommunications, 2011-2015
+* B.S. (Communication Engineering) in Beijing University of Posts and Telecommunications, 2011-2015
 * M.S. (Artificial Intelligence) in The University of Edinburgh, 2016-2017
 * Ph.D (Computer Application Technology) in The University of Chinese Academy of Sciences, 2018-2022
 
